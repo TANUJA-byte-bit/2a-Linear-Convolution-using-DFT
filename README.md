@@ -3,7 +3,7 @@
 To perform and verify linear convolution operation of two given sequences using SCILAB.
 
 ## APPARATUS REQUIRED
-PC installed with SCILAB
+PC installed with SCILAB.
 
 ## PROGRAM:
 ## LINEAR CONVOLUTION
